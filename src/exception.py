@@ -1,6 +1,7 @@
 import sys
 import logging
 
+
 # Logging setup
 logging.basicConfig(
     format="[%(asctime)s] %(lineno)d %(name)s - %(levelname)s - %(message)s",
